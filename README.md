@@ -57,16 +57,9 @@ cd Zen-main
 
 ```
 <img src="https://media.discordapp.net/attachments/1013541817603588189/1015903544500555856/zen2.png">
+
 ## License
 
 <!-- mit  -->
 
 Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
-## Errors?
-
-- Make an [issue](https://github.com/addi00000/empyrean/issues)
-
-- Join the [Discord](https://discord.gg/G52tYpJWnQ)
-
-<img src="img/footer.png">
