@@ -56,7 +56,7 @@ cd Zen-main
 ./install.bat
 
 ```
-<img src="https://media.discordapp.net/attachments/1015815929009021009/1015900655229075466/standard.gif">
+<img src="https://media.discordapp.net/attachments/1013541817603588189/1015903544500555856/zen2.png">
 ## License
 
 <!-- mit  -->
