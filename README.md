@@ -1,20 +1,13 @@
 <img src="https://media.discordapp.net/attachments/1015815929009021009/1015900655229075466/standard.gif">
 
 <div align="center">
-
     <img src="https://img.shields.io/github/languages/top/biIIythegoat356/Zen?color=%23000000">
-
     <img src="https://img.shields.io/github/last-commit/biIIythegoat356/Zen?color=%23000000&logoColor=%23000000">
-
     <img src="https://img.shields.io/github/stars/biIIythegoat356/Zen?color=%23000000&logoColor=%23000000">
-
     <br>
-
     <img src="https://img.shields.io/github/followers/billythegoat356?color=%23000000"> 
-
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-
+</div>
 
 ## Features
 
