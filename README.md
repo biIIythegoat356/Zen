@@ -1,4 +1,4 @@
-<img src="img/banner.png">
+<img src="https://media.discordapp.net/attachments/1015815929009021009/1015900655229075466/standard.gif">
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-</div>
+
 
 ## Features
 
