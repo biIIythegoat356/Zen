@@ -26,6 +26,7 @@
 ##### 🟩 = Done/Working | 🟨 = In development | ⬛️ = Todo | 🟥 = Not Working
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 ## How to Install
 
 #### 1st・Installation (Automated installation)
@@ -35,9 +36,9 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Neptune
+$ git clone https://github.com/biIIythegoat356/Zen
 $ python3 -m pip install -r requirements.txt
-$ python3 main.py
+$ python3 zen.py
 ```
 
 <img src="https://media.discordapp.net/attachments/1013541817603588189/1015903544500555856/zen2.png">
@@ -47,3 +48,10 @@ $ python3 main.py
 <!-- mit  -->
 
 Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+
+## Additional 
+
+```yml
+20 star repo + Roblox Cookie stealer & info
+25 star repo + PS4 jailbreak ( 9.03, 9.60 , 9.00 )
+```
