@@ -1,3 +1,4 @@
+uuid
 browser_cookie3==0.16.1
 colorama==0.4.5
 httpx==0.23.0
