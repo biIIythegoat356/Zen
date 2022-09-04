@@ -58,19 +58,12 @@ cd empyrean
 ```
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
 <div align="center">
-
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/ex0.png"></img>
-
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/ex1.png"></img>
-
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/ex2.png"></img>
-
     <h5 style="margin-bottom:20px;">↪ Injection code made by <a href="https://github.com/Rdimo/Discord-Injection/blob/master/Injection-clean.js">Rdimo</a></h5>
-
 </div>
-
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## License
